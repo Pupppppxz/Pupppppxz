@@ -24,6 +24,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### :woman_technologist: About Me :
+
+Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
