@@ -39,7 +39,6 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I solve problems on LeetCode and Programming.in.th
 
 <br />
-<br />
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -58,7 +57,6 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Css" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-<br />
 <br />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats) -->
