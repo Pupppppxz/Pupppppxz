@@ -7,6 +7,7 @@
 <a href="www.linkedin.com/in/mepupzzx" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
  </a>
+ <br/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats) -->
 
