@@ -36,7 +36,7 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Technical Content Writing. -->
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and Programming.in.th
 
 <hr />
 
