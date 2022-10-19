@@ -36,8 +36,9 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+<div align="center"></div>
 ### :hammer_and_wrench: Languages and Tools :
-- <div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
