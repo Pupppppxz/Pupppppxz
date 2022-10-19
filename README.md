@@ -65,15 +65,9 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupppppxz&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupppppxz&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupppppxz&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupppppxz&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pupppppxz&theme=dark&background=000000)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
