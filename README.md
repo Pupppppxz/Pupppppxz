@@ -1,10 +1,7 @@
 <p align="center">Hi, I’m @Pupppppxz</p></br/>
-<center>👀 I’m interested in</center><br/>
-🅵🆄🅻🅻 🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁
-- 🌱 I’m currently learning 
-🆆🅴🅱 🅰🅽🅳 🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">👀 I’m 🅵🆄🅻🅻 🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁</p></br/>
+<p align="center">I’m currently learning 🆆🅴🅱 🅰🅽🅳 🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃</p></br/>
+<p align="center">I’m looking to collaborate on 🆆 🅾 🅽 🅶 🅽 🅰 🅸</p></br/>
 
 <!---
 Pupppppxz/Pupppppxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
