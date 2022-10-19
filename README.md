@@ -77,7 +77,7 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <p align="center" >  
   <a href="ttps://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="[https://github-readme-stats.vercel.app/api?username=Pupppppxz&layout=compact&theme=radical&hide=scss,less&card_width=500](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=radical&hide=scss,less&card_width=400)"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=radical&hide=scss,less&card_width=500"/>
   </a>
 </p>
 
