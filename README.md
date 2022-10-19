@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pupppppxz
-<center>👀 I’m interested in</center>
+<p align="center">Hi, I’m @Pupppppxz</p></br/>
+<center>👀 I’m interested in</center><br/>
 🅵🆄🅻🅻 🆂🆃🅰🅲🅺 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 - 🌱 I’m currently learning 
 🆆🅴🅱 🅰🅽🅳 🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃
