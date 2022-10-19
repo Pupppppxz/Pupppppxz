@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="devicon.min.css">
 
-<p align="center">Hi, I’m MEPUPZ</p></br/>
+<!-- <p align="center">Hi, I’m MEPUPZ</p></br/>
 <p align="center">👀 🅱 &nbsp;&nbsp;🅾 &nbsp;&nbsp;🆁 &nbsp;&nbsp;🅽 &nbsp;&nbsp;🆃 &nbsp;&nbsp;🅾 &nbsp;&nbsp;🅱 &nbsp;&nbsp;🅴</p></br/>
 <p align="center">🅵🆄🅻🅻 &nbsp; 🆂🆃🅰🅲🅺 &nbsp; 🅳🅴🆅🅴🅻🅾🅿🅴🆁</p></br/>
-<p align="center">🆆🅴🅱 &nbsp; 🅰🅽🅳 &nbsp; 🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 &nbsp; 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃</p></br/>
+<p align="center">🆆🅴🅱 &nbsp; 🅰🅽🅳 &nbsp; 🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 &nbsp; 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃</p></br/> -->
 <!-- <p align="center">I’m looking to collaborate on 🆆 &nbsp; 🅾 &nbsp; 🅽 &nbsp; 🅶 &nbsp; 🅽 &nbsp; 🅰 &nbsp; 🅸</p></br/> -->
 
 <!-- <a href="www.linkedin.com/in/mepupzzx" target="_blank">
@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hi, I’m MEPUPZ
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
