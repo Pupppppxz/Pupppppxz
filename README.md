@@ -4,7 +4,9 @@
 <p align="center">🆆🅴🅱 &nbsp; 🅰🅽🅳 &nbsp; 🅰🅿🅿🅻🅸🅲🅰🆃🅸🅾🅽 &nbsp; 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃</p></br/>
 <!-- <p align="center">I’m looking to collaborate on 🆆 &nbsp; 🅾 &nbsp; 🅽 &nbsp; 🅶 &nbsp; 🅽 &nbsp; 🅰 &nbsp; 🅸</p></br/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
