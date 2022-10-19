@@ -60,7 +60,10 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 <hr />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz)](https://github.com/anuraghazra/github-readme-stats) -->
-  
+---
+
+### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
