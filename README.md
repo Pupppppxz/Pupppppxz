@@ -65,6 +65,8 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 ### :fire: My Stats :
 
+https://github-readme-streak-stats.herokuapp.com/?user=Pupppppxz
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupppppxz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
