@@ -37,6 +37,7 @@ Born To Be Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring Technical Content Writing. -->
 
 - :zap: In my free time, I solve problems on LeetCode and Programming.in.th
+- :schoool: I am currently studying in Bachelor of Computer Engineering program at KMITL
 
 <br />
 
